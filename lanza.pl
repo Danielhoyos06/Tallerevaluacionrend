@@ -2,7 +2,7 @@
 #**************************************************************
 # Pontificia Universidad Javeriana
 # Autor: J. Corredor
-# Modificado por: 
+# Modificado por:Daniel Hoyos 
 # Fecha: Mayo 2025
 # Materia: Sistemas Operativos
 # Tema: Evaluación de Rendimiento (Fork, POSIX, OpenMP)
